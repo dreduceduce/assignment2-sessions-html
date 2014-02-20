@@ -1,0 +1,30 @@
+body{
+	width:100%;
+	margin: 0 auto;
+	border:1px solid #666;
+	padding:0 2%;
+	background: #000;
+}
+h1{
+	color:#fff;
+}
+h2{
+	color:#fff;
+}
+	
+}
+.track{
+	width:90%;
+}
+.session{
+	width: 41.66666%;
+	padding:5% 20%;
+	background: #cc0000;
+	margin:5% auto;
+
+}
+.presenter{
+	width: 100%;
+	color: #fff;
+
+}
